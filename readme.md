@@ -23,7 +23,8 @@ Designed an app that will take in an input image and output a recommended playli
 3.  Create an app that would generate one unique playlist for each picture.
 
 ### <a name="section-ba"></a>2. App Preview: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WxvRlYI7VJk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WxvRlYI7VJk" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 Demo for the app Available at: 
 [Link to App Demo](www.selfiemixtape.com)
