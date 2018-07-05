@@ -7,7 +7,7 @@
 [4. Data Collection](#section-b2)  
 [5. Modeling: NLP Processing](#section-c)    
 [6. Lyrics Based Recommendation](#section-ca)     
-[7. Github Repo - Link](insert_link)
+[7. Github Repo - Link](https://github.com/smeetvikani/Photo_to_Playlist)
 
 ---
 
@@ -23,8 +23,10 @@ Designed an app that will take in an input image and output a recommened playlis
 3.  Create an app that would generate one unique playlist for each picture.
 
 ### <a name="section-ba"></a>2. App Preview: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zRjbD_r42iM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WxvRlYI7VJk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+Demo for the app Available at: 
+[Link to App Demo](www.selfiemixtape.com)
 <br>
 
 ---
@@ -73,5 +75,3 @@ For Example, based on the lyrics one song has a distance associated with each em
 ### <a name="section-end"></a> Contact:
 Thank you for visiting my blog, If you have any questions free to contact me at smeet.vikani@gmail.com
 
-Demo for the app Available at: 
-[Link to App Demo](www.selfiemixtape.com)
