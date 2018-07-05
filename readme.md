@@ -15,7 +15,7 @@
 
 #### “Emotion Based music recommendation with facial detection.”
 
-Designed an app that will take in an input image and output a recommened playlist based on emotions of the users.  
+Designed an app that will take in an input image and output a recommended playlist based on emotions of the users.  
 
 ##### The 3 goals for this project are:
 1.  Classify Emotions in a Given Picture Real Time
@@ -48,12 +48,12 @@ Demo for the app Available at:
 ### <a name="section-b2"></a>4.  Data Collection
 Raw JSON data was collected from AWS Rekognition interface for each picture and saved to MongoDB.
 
-Lyrics Data was scraped from AZLyrics.com and song features were scraped from Spotify. A collection of 350K songs with features were insrted into a MongoDB. 
+Lyrics Data was scraped from AZLyrics.com and song features were scraped from Spotify. A collection of 350K songs with features were inserted into a MongoDB. 
 <br>
 ---
 ### <a name="section-c"></a> 5. NLP Processing (Lyrics)
 ##### Phase 1: Used GloVe Corpus (Global Vectors for Word Representation - Stanford NLP) 
-Stanform University NLP Department put the corpus together by extracting word context from 28B tweets Corpus consisted of 1.2M words in 100 Dimensional Vector Space. 
+Stanford University NLP Department put the corpus together by extracting word context from 28B tweets Corpus consisted of 1.2M words in 100 Dimensional Vector Space. 
 
 I Collected vectors for each word in each song from the 1.2M word corpus. Then, averaged the vectors for all the words in 1 song. 
 As a result, was able to produce the following plot for which each vector on this TSNE plot represents a song. 
@@ -74,4 +74,5 @@ For Example, based on the lyrics one song has a distance associated with each em
 
 ### <a name="section-end"></a> Contact:
 Thank you for visiting my blog, If you have any questions free to contact me at smeet.vikani@gmail.com
+
 
